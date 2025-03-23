@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ortiz\\Documents\\GitHub\\ADMINTICK2025\\laboratorio1ElvisOrtiz160625.csproj": {}
+    "C:\\Users\\santo\\OneDrive\\Documentos\\AÑO 2025\\ADMINTICK2025\\laboratorio1ElvisOrtiz160625.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ortiz\\Documents\\GitHub\\ADMINTICK2025\\laboratorio1ElvisOrtiz160625.csproj": {
+    "C:\\Users\\santo\\OneDrive\\Documentos\\AÑO 2025\\ADMINTICK2025\\laboratorio1ElvisOrtiz160625.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ortiz\\Documents\\GitHub\\ADMINTICK2025\\laboratorio1ElvisOrtiz160625.csproj",
+        "projectUniqueName": "C:\\Users\\santo\\OneDrive\\Documentos\\AÑO 2025\\ADMINTICK2025\\laboratorio1ElvisOrtiz160625.csproj",
         "projectName": "laboratorio1ElvisOrtiz160625",
-        "projectPath": "C:\\Users\\ortiz\\Documents\\GitHub\\ADMINTICK2025\\laboratorio1ElvisOrtiz160625.csproj",
-        "packagesPath": "C:\\Users\\ortiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ortiz\\Documents\\GitHub\\ADMINTICK2025\\obj\\",
+        "projectPath": "C:\\Users\\santo\\OneDrive\\Documentos\\AÑO 2025\\ADMINTICK2025\\laboratorio1ElvisOrtiz160625.csproj",
+        "packagesPath": "C:\\Users\\santo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\santo\\OneDrive\\Documentos\\AÑO 2025\\ADMINTICK2025\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ortiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\santo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
